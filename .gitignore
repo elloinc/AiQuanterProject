@@ -11,7 +11,6 @@ venv/
 .env/
 
 # IDE specific
-.vscode/
 .idea/
 
 # Log files
@@ -19,3 +18,7 @@ venv/
 
 # Other
 *.sqlite3
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
